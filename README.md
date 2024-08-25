@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Naman Chawla</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nam710&label=Profile%20views&color=0e75b6&style=flat" alt="nam710" /> </p>
 
 - 🌱 I’m currently learning **React Native and Android Development in particular**
 
 - 📫 How to reach me **namanchawla029@gmail.com**
+
+-  <p align="left"><img src="https://github.com/user-attachments/assets/18b3a032-216a-4294-91f3-f4576d0ea014" alt="linkedin" /> <a href="https://www.linkedin.com/in/naman-chawla-63529b21b/" target="_blank" rel="noreferrer"/> Connect with me on LinkedIn </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
