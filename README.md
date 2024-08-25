@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **namanchawla029@gmail.com**
 
--  <p align="left"><img src="https://github.com/user-attachments/assets/18b3a032-216a-4294-91f3-f4576d0ea014" alt="linkedin" height=12 width=12/> <a href="https://www.linkedin.com/in/naman-chawla-63529b21b/" target="_blank" rel="noreferrer"/> Connect with me on LinkedIn </p>
+-  <p align="left"><img src="https://github.com/user-attachments/assets/18b3a032-216a-4294-91f3-f4576d0ea014" alt="linkedin" height=12 width=12/>  Connect with me on LinkedIn <a href="https://www.linkedin.com/in/naman-chawla-63529b21b/" target="_blank" rel="noreferrer"/> nam710 </p>
 
 
 <h3 align="left">Connect with me:</h3>
